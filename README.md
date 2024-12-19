@@ -1,1 +1,2 @@
 # fruits
+! pip install plotly
